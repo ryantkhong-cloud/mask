@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#101F2A"/>
+<circle cx="600" cy="600" r="500" fill="#F2E6C9"/>
+<circle cx="600" cy="600" r="484" fill="none" stroke="#B88B4A" stroke-width="8"/>
+<circle cx="600" cy="600" r="460" fill="none" stroke="#182C36" stroke-width="3"/>
+<!-- art deco fan -->
+<g stroke="#B88B4A" stroke-width="5" fill="none">
+<path d="M430 310 Q600 150 770 310"/>
+<path d="M465 310 Q600 195 735 310"/>
+<path d="M500 310 Q600 235 700 310"/>
+<path d="M535 310 Q600 275 665 310"/>
+<path d="M600 184 V310"/>
+</g>
+<path d="M395 323 H805" stroke="#182C36" stroke-width="4"/>
+<!-- record as centerpiece -->
+<circle cx="600" cy="530" r="202" fill="#142630"/>
+<circle cx="600" cy="530" r="184" fill="none" stroke="#6B7168" stroke-width="2"/>
+<circle cx="600" cy="530" r="159" fill="none" stroke="#6B7168" stroke-width="2"/>
+<circle cx="600" cy="530" r="133" fill="none" stroke="#6B7168" stroke-width="2"/>
+<circle cx="600" cy="530" r="105" fill="none" stroke="#6B7168" stroke-width="2"/>
+<circle cx="600" cy="530" r="76" fill="#B88B4A"/>
+<circle cx="600" cy="530" r="66" fill="#142630"/>
+<!-- coffee bean label -->
+<path d="M603 476 C568 471 548 501 553 535 C558 568 584 587 610 577 C639 565 650 526 634 495 C627 483 616 478 603 476Z" fill="#F2E6C9"/>
+<path d="M600 482 C585 501 581 523 586 541 C590 555 599 567 610 577" fill="none" stroke="#B88B4A" stroke-width="7" stroke-linecap="round"/>
+<!-- gramophone tonearm -->
+<path d="M734 391 L797 454 L759 536" fill="none" stroke="#D0AA68" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="734" cy="391" r="14" fill="#B88B4A"/>
+<path d="M759 536 l-18 17" stroke="#D0AA68" stroke-width="11" stroke-linecap="round"/>
+<!-- dividers + name -->
+<path d="M350 777 H850" stroke="#B88B4A" stroke-width="4"/>
+<path d="M382 789 H818" stroke="#182C36" stroke-width="1.5"/>
+<text x="600" y="884" text-anchor="middle" fill="#142630" font-family="STSong, SimSun, Songti SC, serif" font-size="100" font-weight="700" letter-spacing="13">留声咖啡</text>
+<text x="600" y="940" text-anchor="middle" fill="#9A7139" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="7">LIU SHENG  ·  COFFEE</text>
+<!-- small deco ornaments -->
+<path d="M425 976 H535 M665 976 H775" stroke="#B88B4A" stroke-width="3"/>
+<path d="M585 976 L600 961 L615 976 L600 991Z" fill="#B88B4A"/>
+<text x="600" y="1034" text-anchor="middle" fill="#394A4D" font-family="STSong, SimSun, Songti SC, serif" font-size="22" letter-spacing="5">咖啡与爵士，慢慢听</text>
+</svg>
